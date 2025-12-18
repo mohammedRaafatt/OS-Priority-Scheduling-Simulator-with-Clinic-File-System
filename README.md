@@ -43,7 +43,7 @@ This interactive web-based tool simulates **non-preemptive priority CPU scheduli
 
 1. Open the `Project/` directory.
 2. Open `Project3.html` using any modern web browser:
-   - Double-click the file 
+   - Double-click the file
    - OR right-click > **Open with** > select your browser.
 
 The app is fully client-side and does not require installation or a web server.
@@ -131,7 +131,7 @@ This simulated file structure provides a platform for practicing typical file sy
 ```plaintext
 OS_Task-main/
 ├── Project/                 # Priority Scheduling Simulator (web app)
-│   ├── Project3.html        # Main HTML file
+│   ├── index.html        # Main HTML file
 │   ├── script.js            # Scheduler logic + DOM updates
 │   └── style.css            # Dark theme UI styling
 │
@@ -142,7 +142,7 @@ OS_Task-main/
 │   ├── history.txt          # Global history logs
 │   └── policy.txt           # Clinic-wide policy document
 │
-└── README.md                # Project documentation (this file)
+└── README.md                # Project documentation
 ```
 
 ---
@@ -158,7 +158,7 @@ OS_Task-main/
   - Enhance error handling with highlighted invalid rows.
   - Enable saving/loading of process sets via files.
 - **UI Improvements:**
-  - Add responsive design for mobile support and **theme options** (dark/light modes). 
+  - Add responsive design for mobile support and **theme options** (dark/light modes).
   - Provide a **live calculation preview** feature.
 
 ### For the Clinic Records 🗂️:
