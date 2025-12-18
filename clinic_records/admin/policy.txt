@@ -1,0 +1,42 @@
+
++---------------------------------------------------------------------+
+|----------PLEASE READ THIS DOCUMENT BEFORE USING THE SYSTEM----------|
+|---------------------------------------------------------------------|
+|	1. Only admins are able to access the /admin directory        |
+|	2. Only admins and doctors can access the /patients directory |
+|	3. Receptionists are to document each check-in                |
+|	4. Doctors should archive old patient files on a 3-month basis|
+|	5. patient history can be viewed by all users                 |
+|	6. Aliases can be assigned to frequently-used commands        |
++---------------------------------------------------------------------+
+
+
+
++--------------------------+
+|--------HOW TO USE--------|
++--------------------------+
+
+	 For Doctors:
+	--------------
+		1. navigate to the doctors directory
+		2. use nano to edit .txt files (nano patients_list.txt)
+		
+		- if you need to archive old files, use tar to compress (tar -czvf patient_archive.tar.gz patients_list.txt)
+		- in order to search for patients with certain conditions:
+			1. navigate to patients.
+			2. do grep "condition name" *.txt (grep "diabetes" *.txt)
+	 
+	 For Receptionists:
+      --------------------
+		1. navigate to reception/schedule
+		2. document reservations in text files named with the current date like so:
+			touch <today's date>.txt
+			nano <today's date>.txt
+		or just do nano <today's date>.txt and edit immediately
+		3. write patient names in the files
+
+	 For All Users:
+	----------------
+		- to print the contents of a file: cat <file name>
+		- to view command history: history. you can save it by doing history > history.txt
+		- to create aliases for frequently used commands during your session: alias <alias name>='command'

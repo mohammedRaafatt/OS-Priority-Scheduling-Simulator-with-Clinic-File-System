@@ -1,0 +1,500 @@
+   40  ls
+   41  cd OS_Task\\project/
+   42  ls
+   43  code .
+   44  code .
+   45  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+   46  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+   47  ls
+   48  cd clinic_records/
+   49  ls
+   50  cd admin
+   51  sudo cd admin
+   52  sudo su
+   53  man su
+   54  ls
+   55  cd admin
+   56  su
+   57  sudo su
+   58  exit
+   59  exit
+   60  cd admin
+   61  sudo cd admin
+   62  sudo su
+   63  ls
+   64  ls
+   65  cd Documents
+   66  ls
+   67  cd OS_Task\\project/
+   68  ;s
+   69  ls
+   70  cd clinic_records/
+   71  ls
+   72  cd admin
+   73  sudo cd admin
+   74  sudo su
+   75  ls
+   76  cd doctors
+   77  cd ..
+   78  ls -a
+   79  ls -l
+   80  ls
+   81  cd clinic_records/
+   82  ls
+   83  cd admin
+   84  cd ..
+   85  ls
+   86  chmod 755 /admin
+   87  chmod 755 ./admin
+   88  cd admin
+   89  cd ..
+   90  ls -la
+   91  sudo chmod 700 ./admin
+   92  cd admin
+   93  sudo chown:root ./admin
+   94  sudo chown root:root ./admin
+   95  cd ..
+   96  sudo chown root:root ./admin
+   97  ls
+   98  ls =la
+   99  ls -la
+  100  cd adiom
+  101  cd admin
+  102  sudo cd admin
+  103  sudo bash -c "cd admin""
+  104  sudo bash -c "cd admin"
+  105  cd ..
+  106  ls
+  107  sudo code ./
+  108  sudo code ./ --no-sandbox
+  109  sudo code --no-sandbox  ./
+  110  sudo --no-sandbox  code .
+  111  clear
+  112  ls
+  113  history > 0
+  114  ls
+  115  rm 0
+  116  ls
+  117  history > history.txt
+  118  cat history.txt
+  119  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+  120  cd admon
+  121  cd admin
+  122  ls
+  123  sudo su
+  124  clear
+  125  l
+  126  ls
+  127  ls
+  128  cd doctors
+  129  ls
+  130  cd patients
+  131  ls
+  132  cd ..
+  133  cd ..
+  134  ls
+  135  pwd
+  136  ls
+  137  ls -la
+  138  cd doctors
+  139  ls
+  140  cd patients
+  141  ls
+  142  cat patients_list.txt
+  143  nano patients_list.txt
+  144  touch record.txt
+  145  ls
+  146  touch c.cpp
+  147  ls
+  148  rm -r c.pp
+  149  rm -r c.pp
+  150  ls
+  151  rm -r c.cpp
+  152  ls
+  153  ls
+  154  man sudo
+  155  ls
+  156  cd ..
+  157  ls
+  158  cd ..
+  159  ls
+  160  ls -la
+  161  cat policy_link.txt
+  162  sudo cat policy_link.txt
+  163  cd doctors
+  164  ls
+  165  cd patients
+  166  ls
+  167  rm re
+  168  rm record.txt
+  169  ls
+  170  man tar
+  171  tar -cvf patients.tar.gz patients_list.txt
+  172  ls
+  173  cd ..
+  174  ls
+  175  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+  176  ls
+  177  cd Documents/
+  178  ls
+  179  cd OS_Task\\project/
+  180  ls
+  181  cd clinic_records/
+  182  ls
+  183  cd doctors/
+  184  ls
+  185  cd patients/
+  186  ls
+  187  tar patients_list.tar.gz patients_list.txt
+  188  tar -czvf  patients_list.tar.gz patients_list.txt
+  189  ;s
+  190  ls
+  191  ls
+  192  rm patients_list.txt
+  193  cat patients_list.txt 
+  194  grep "flu" *.txt
+  195  grep "flu"
+  196  grep "flu" .txt
+  197  grep "flu" patients.txt
+  198  ls
+  199  grep "flu" patients_list.txt
+  200  ls
+  201  cd ..
+  202  cd ..
+  203  ls
+  204  cd reception/
+  205  ls
+  206  ls
+  207  cd schedule
+  208  ls
+  209  ls
+  210  echo "patient2" > 05_14_2025.txt
+  211  ls
+  212  cat 05_14_2025.txt 
+  213  nano 05_14_2025.txt 
+  214  cd ..
+  215  ls
+  216  cd ..
+  217  ls
+  218  cd admin
+  219  sudo cd admin
+  220  sudo su
+  221  history
+  222  ls
+  223  cat policy_link.txt 
+  224  sudo policy_link.txt 
+  225  sudo cat policy_link.txt 
+  226  history
+  227  ls
+  228  cd ..
+  229  cd ..
+  230  ls
+  231  cd _
+  232  ls
+  233  cd -
+  234  ls
+  235  cd admin
+  236  chmod a+X /admin
+  237  sudo chmod a+X /admin
+  238  ls
+  239  sudo chmod a+X ./admin
+  240  ls
+  241  cd admin
+  242  ls
+  243  cd ..
+  244  ls -la
+  245  sudo chown youssefmohammed:youssefmohammed ./admin/
+  246  ls
+  247  ls -la
+  248  cd admin
+  249  ls
+  250  echo 'To extract a tar.gz file, use: tar -xzf filename.tar.gz'
+  251  whoami
+  252  sudo su
+  253  ls
+  254  cd ..
+  255  ls
+  256  cd doctors
+  257  ls
+  258  cat policy.txt
+  259  ls -la policy.txt
+  260  rm policy.txt
+  261  cd ..
+  262  ls
+  263  ln -s ./policy.txt ./doctors/policy_link.txt
+  264  cd doctors
+  265  ls
+  266  cat policy_link.txt 
+  267  ls -l policy_link.txt
+  268  cat policy_link.txt
+  269  ls
+  270  nano policy_link.txt
+  271  ls
+  272  rm policy_link.txt
+  273  ls
+  274  cd ..
+  275  ls
+  276  sudo chown root:root admin/
+  277  ls
+  278  cd admin
+  279  cd ..
+  280  ls -l
+  281  sudo chmod 700 ./admin
+  282  ls -l admin
+  283  sudo ls -l admin
+  284  ls
+  285  chown root:root policy.txt
+  286  sudo chown root:root policy.txt
+  287  ls -l policy.txt
+  288  chmod 600 policy.txt
+  289  sudo chmod 600 policy.txt
+  290  ls -l policy.txt
+  291  cat policy.txt
+  292  ls -l
+  293  sudo chmod -rwxr--r-- policy.txt
+  294  cat policy.txt
+  295  sudo cat policy.txt
+  296  ls -ls
+  297  sudo chmod 744 policy.txt
+  298  ls -l
+  299  cat policy.txt
+  300  nano policy_link.txt
+  301  nano policy.txt 
+  302  sudo chmod -rw------- policy.txt 
+  303  ls -l
+  304  sudo chmod u=rwx, g=r, o=r policy.txt
+  305  sudo chmod u=rwx,g=r,o=r policy.txt
+  306  ls -l
+  307  cat policy.txt
+  308  echo "" >> policy.txt 
+  309  ls
+  310  cd doctors
+  311  ls
+  312  cd patints
+  313  ls
+  314  cd patients
+  315  ls
+  316  cat patients_list.txt
+  317  cd ..
+  318  cd ..
+  319  ls
+  320  cd reception
+  321  ls
+  322  cd schedule/
+  323  ls
+  324  cd ..
+  325  lcd 
+  326  cd ..
+  327  ls
+  328  cd ..
+  329  lc
+  330  ls
+  331  cd clinic_records/
+  332  ls
+  333  mkdir Project
+  334  ls
+  335  rm Project/
+  336  rm -r Project
+  337  ls
+  338  cd ..
+  339  ls
+  340  mkdir Project
+  341  ls
+  342  mv Project3.html Project/
+  343  mv script.js Project/
+  344  ls
+  345  mv style.css Project/
+  346  ls
+  347  cd Project/
+  348  ls
+  349  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+  350  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+  351  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+  352  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+  353  cd OS_Task
+  354  ls
+  355  ls
+  356  cd Document
+  357  cd Documents
+  358  ls
+  359  cd Os
+  360  cd OS_Task\\project/
+  361  ls
+  362  cd clinic_records
+  363  ls
+  364  cd reception
+  365  ls
+  366  cd schedule
+  367  ls
+  368  pwd
+  369  cd ..
+  370  cd /home/youssefmohammed/Documents/OS_Task\project/clinic_records/reception/schedule
+  371  cd /home/youssefmohammed/Documents/OS_Task\project/clinic_records/reception/schedule
+  372  cd home/youssefmohammed/Documents/OS_Task\project/clinic_records/reception/schedule
+  373  ls
+  374  pwd
+  375  ls
+  376  cd Documents/
+  377  ls
+  378  cd OS_Task/
+  379  ls
+  380  cd clinic_records/
+  381  ls
+  382  cd recepto
+  383  cd reception/
+  384  ls
+  385  cd schedule
+  386  ls
+  387  pwd
+  388  cd ..
+  389  cd ..
+  390  cd /home/youssefmohammed/Documents/OS_Task/clinic_records/reception/schedule
+  391  cd..
+  392  sudo nano ./bash.rc
+  393  sudo nano ./bashrc
+  394  sudo nano ~./bashrc
+  395  sudo nano ~/.bashrc
+  396  source ~/.bashrc
+  397  goschedule
+  398  cd ..
+  399  cd ..
+  400  cd ..
+  401  goschedule
+  402  cd ..
+  403  cd ..
+  404  ls
+  405  pwd
+  406  cd ..
+  407  sudo nano ~/.bashrc
+  408  source ~/.bashrc
+  409  gohistory
+  410  ls
+  411  nano ~/.bashrc
+  412  cd
+  413  pwd
+  414  cd documents
+  415  cd -
+  416  ls -l
+  417  cd clinic_records/
+  418  ls
+  419  ls -la
+  420  cat policy
+  421  cat policy.txt
+  422  clear
+  423  nano policy.tx
+  424  nano policy.txt
+  425  rm policy.tx
+  426  rm -r  policy.tx
+  427  ls
+  428  sduo nano policy.txt
+  429  sudo nano policy.txt
+  430  ls
+  431  ls -l
+  432  sudo chown youssefmohammed:youssefmohammed policy.txt
+  433  ls -l
+  434  sudo chown root:root policy.txt
+  435  ls
+  436  ls -l
+  437  cd admin
+  438  sudo cd admin
+  439  sudo sy
+  440  sudo su
+  441  ls
+  442  sudo chmod g=r reception 
+  443  ls -l
+  444  sudo chmod g=rwx reception 
+  445  ls -l
+  446  ls
+  447  code ./
+  448  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+  449  node -e 'require("fs").writeFileSync("/home/youssefmohammed/snap/code/192/.local/share/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+  450  ls
+  451  cd Documents
+  452  ls
+  453  cd OS_Task
+  454  ls
+  455  cd clinic_records/
+  456  ls
+  457  cd doctors
+  458  ls
+  459  nano doctors_list.txt
+  460  sudo chown root:root doctors_list.txt 
+  461  sudo chmod u=rwx,g=r,o=r doctors_list.txt 
+  462  ls -l
+  463  cat doctors_list.txt 
+  464  nano doctors_list.txt 
+  465  cd patients
+  466  ls
+  467  nano patients_list.txt
+  468  cd ..
+  469  cd ..
+  470  ls
+  471  cd recept
+  472  cd reception
+  473  ls
+  474  cd schedule
+  475  ls
+  476  cat 5_14_2025.txt
+  477  cat 05_14_2025.txt
+  478  cd ..
+  479  cd ..
+  480  ls
+  481  cd admin
+  482  ls
+  483  sudo cd admin
+  484  sudo su admin
+  485  sudo su
+  486  cd reception
+  487  ls
+  488  cd shcedule
+  489  cd schedule
+  490  ls
+  491  touch test.txt
+  492  ls
+  493  mv test,txt 15-5-2025.txt
+  494  mv test.txt 15-05-2025.txt
+  495  ls
+  496  cd ..'
+  497  cd ..
+  498  exit
+  499  cd ..'
+  500  pwd
+  501  cd /home/youssefmohammed/Documents/OS_Task
+  502  cd clinic_records
+  503  cd doctors
+  504  ls
+  505  cd patients
+  506  ls
+  507  cat patients_list.txt
+  508  grep "flu"
+  509  grep "flu" patients_list.txt
+  510  ls
+  511  cat patients_list.txt
+  512  grep "something"*.txt
+  513  grep "something" patients_list.txt
+  514  cd ..
+  515  cd ..
+  516  ls
+  517  cd doctors
+  518  ls
+  519  cd ..
+  520  ln -s /home/youssefmohammed/Documents/OS_Task/clinic_records ls
+  521  ls
+  522  cd doctors/
+  523  ls
+  524  ln -s ./../policy.txt policy_link.txt
+  525  ls
+  526  cat policy_link.txt 
+  527  nano policy_link.txt 
+  528  clear
+  529  cd .
+  530  cd ..
+  531  history > history.txt
+  532  ls
+  533  cat history.txt
+  534  clear
+  535  cat history.txt
+  536  histoy
+  537  history
+  538  history
+  539  history >history.txt

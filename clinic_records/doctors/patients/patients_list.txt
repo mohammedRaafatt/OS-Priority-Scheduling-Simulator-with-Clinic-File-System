@@ -1,0 +1,6 @@
+patient1: diabetes
+patient2: heart disease
+patient3: flu
+patient4: something
+patient5: flu
+patient6: heart disease
